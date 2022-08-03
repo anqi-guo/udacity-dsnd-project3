@@ -24,7 +24,7 @@ build a model that predicts whether a user will churn or not.
 |--main.py: this contains codes for modeling on the big dataset using AWS
 ```
 ## Results
-Results and discussions can be found at the post available [here](https://medium.com/@kwok723/airbnb-in-shanghai-db66177e54f6).
+Results and discussions can be found at the post available [here](https://medium.com/@kwok723/predict-customer-churn-rate-with-apache-spark-39c83a8f4940).
 
 ## Acknowledgements
 Data is provided by Udacity.
